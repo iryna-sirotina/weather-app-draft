@@ -1,0 +1,74 @@
+h1 {
+  margin-top: 15px;
+  font-size: 56px;
+  text-transform: capitalize;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+.container {
+  max-width: 700px;
+  background-color: #d3f39f;
+  margin: 10px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.current-weather {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.date-time {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+
+.current-temperature {
+  font-size: 50px;
+  line-height: 50px;
+  color: #e30909;
+}
+
+.units {
+  font-size: 18px;
+  padding: 0;
+}
+
+.celsius-link,
+.fahrenheit-link {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.next-days {
+  padding: 5px;
+  text-align: center;
+}
+
+.card-body {
+  padding: 15px 0;
+}
+
+.weather-icon {
+  color: #549fe1;
+  font-size: 32px;
+  padding: 10px 0;
+}
+
+.next-temperature {
+  color: #e30909;
+  font-weight: 500;
+}
+
+.today-temperature {
+  font-size: 22px;
+  color: #e30909;
+}
