@@ -13,8 +13,24 @@ h5 {
   font-size: 18px;
 }
 
+footer {
+  display: block;
+  font-size: 14px;
+}
+
+.github-link {
+  text-decoration: none;
+}
+
+.github-link:hover {
+  text-decoration: underline;
+}
+
 .container {
   max-width: 700px;
+}
+
+.app-container {
   background-color: #d3f39f;
   margin: 10px auto;
   padding: 20px;
